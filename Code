@@ -25,9 +25,7 @@ public class Main{
 	                   System.out.print("num found at ("+i+" , "+j+")") ;
 	           
 	              }
-	           
-	              
-	                  
+	         
 	         }
 	     }    
 	     
